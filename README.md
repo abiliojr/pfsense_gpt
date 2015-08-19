@@ -1,4 +1,4 @@
-Install pfsense on a GPT disk
+# Install pfsense on a GPT disk
 
 This script could be useful for people trying to install pfSense using GPT, specially needed 
 on disks bigger than 2 Tb. On the pfSense installer for version 2.2 (at least in 2.2.4) 
