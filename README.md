@@ -4,7 +4,7 @@ This script could be useful for people trying to install pfSense using GPT, spec
 on disks bigger than 2 Tb. On the pfSense installer for version 2.2 (at least in 2.2.4) 
 only MBR is available.
 
-By: Abilio Marques <https://github.com/abiliojr/>
+By: Abilio Marques: https://github.com/abiliojr/
 
 Note: this script needs you to install pfsense in a specific way to properly work. It assumes your installation is made on a fresh formatted disk.
 
